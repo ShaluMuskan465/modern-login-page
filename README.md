@@ -31,7 +31,7 @@ The UI is minimal, clean, and centered on the page, making it perfect for learni
 Add a screenshot of the project here.
 
 ```
-![Login UI](Screenshot.png)
+![modern-login-page](Screenshot.png)
 ```
 
 ---
