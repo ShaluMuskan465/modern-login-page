@@ -26,16 +26,6 @@ The UI is minimal, clean, and centered on the page, making it perfect for learni
 * **Flexbox**
 * **Glassmorphism Design**
 
-## 📸 Preview
-
-Add a screenshot of the project here.
-
-```
-![modern-login-page](Screenshot.png)
-```
-
----
-
 ## 💡 Key CSS Concepts Used
 
 * `backdrop-filter: blur()` for glass effect
